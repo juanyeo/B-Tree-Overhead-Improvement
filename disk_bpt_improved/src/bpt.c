@@ -4,7 +4,7 @@ H_P * hp;
 
 page * rt = NULL; //root is declared as global
 
-int fd = -1; //fd is declared as global
+int fd = -1; //fd is declared as global do
 
 void db_test(int scenario) {
     double start_time, end_time;
